@@ -1,0 +1,153 @@
+body{
+  display: block;
+  margin: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+background-color: #0000FF;
+}
+
+.atama{
+  width: 160px;
+  height: 160px;
+  display: inline;
+  background: url('..images/emoji-120.png');
+  animation-play-state: running;
+}
+
+.me{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/emoji-120.png');
+  animation: me 0.8s steps(1) infinite;
+}
+
+.kuti{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/emoji-120.png');
+  animation: kuti 0.8s steps(1) infinite;
+}
+
+.atama2{
+  width: 160px;
+  height: 160px;
+  display: inline;
+  background: url('..images/moji1.png');
+  animation-play-state: running;
+}
+
+.me2{
+  width: 160px;
+  height: 150px;
+  display: block;
+  background: url('..images/moji1');
+  animation: me2 0.8s steps(1) infinite;
+}
+
+.kuti2{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji1');
+  animation: kuti2 0.8s steps(1) infinite;
+}
+
+.atama3{
+  width: 160px;
+  height: 160px;
+  display: inline;
+  background: url('..images/moji2');
+  animation-play-state: running;
+}
+
+.me3{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji2');
+  animation: me3 0.8s steps(1) infinite;
+}
+
+.kuti3{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji2');
+  animation: kuti3 0.8s steps(1) infinite;
+}
+
+.atama4{
+  width: 160px;
+  height: 160px;
+  display: inline;
+  background: url('..images/moji3');
+  animation-play-state: running;
+}
+
+.me4{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji3');
+  animation: me4 0.8s steps(1) infinite;
+}
+
+.kuti4{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji3');
+  animation: kuti4 0.8s steps(1) infinite;
+}
+
+.atama5{
+  width: 160px;
+  height: 160px;
+  display: inline;
+  background: url('..images/moji4');
+  animation-play-state: running;
+}
+
+.me5{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji4');
+  animation: me5 0.8s steps(1) infinite;
+}
+
+.kuti5{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji4');
+  animation: kuti5 0.8s steps(1) infinite;
+}
+
+.atama6{
+  width: 160px;
+  height: 160px;
+  display: inline;
+  background: url('..images/moji5');
+  animation-play-state: running;
+}
+
+.me6{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji5');
+  animation: me6 0.8s steps(1) infinite;
+}
+
+.kuti6{
+  width: 160px;
+  height: 160px;
+  display: block;
+  background: url('..images/moji5');
+  animation: kuti6 0.8s steps(1) infinite;
+}
